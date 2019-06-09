@@ -12,8 +12,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "d:/Engineering/Arduino/work-table/.pioenvs/pro16MHzatmega328/firmware.elf",
-            "toolchainBinDir": "C:/Users/engra/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "d:/engineering/hobby-projects/work-table/visual-studio-code/.pioenvs/pro16MHzatmega328/firmware.elf",
+            "toolchainBinDir": "C:/Users/ahmad/.platformio/packages/toolchain-atmelavr/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -24,8 +24,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "d:/Engineering/Arduino/work-table/.pioenvs/pro16MHzatmega328/firmware.elf",
-            "toolchainBinDir": "C:/Users/engra/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "d:/engineering/hobby-projects/work-table/visual-studio-code/.pioenvs/pro16MHzatmega328/firmware.elf",
+            "toolchainBinDir": "C:/Users/ahmad/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
